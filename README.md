@@ -1,3 +1,7 @@
+Field,Value
+Date,"November 2, 2025"
+Team ID,NM2025TMID04955
+Project Name,Educational organization using ServiceNow
 # Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows
 This project focuses on enhancing and automating user role and group management within the ServiceNow platform. The main objective is to optimize access control, ensure secure authorization, and streamline workflows associated with role assignments. Using ServiceNow’s Access Control Lists (ACLs), Flow Designer, and Group Role configurations.
 ✅ Optimization Droll — User, Group & Role Management System
