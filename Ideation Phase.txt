@@ -1,0 +1,38 @@
+✅ Ideation Phase
+
+The ideation phase focuses on analyzing the current challenges faced in ServiceNow user and role management, and brainstorming solutions to improve performance, security, and workflow automation.
+
+🔍 Problem Identification
+
+Organizations often struggle with:
+	•	Manual assignment of roles and permissions
+	•	Inefficient approval processes for access requests
+	•	Risk of incorrect access privileges
+	•	Lack of visibility and control in group-role mapping
+	•	High dependency on administrators for updates
+
+These issues lead to:
+	•	Operational delays
+	•	Higher security vulnerabilities
+	•	Reduced productivity and mismanagement of access rights
+
+⸻
+
+💡 Proposed Solution
+
+To overcome these challenges, the project introduces:
+
+✔ Automated workflow for role assignment
+✔ Default admin/user role automation for group creation
+✔ Access Control Rules (ACLs) for secure authorization
+✔ Performance monitoring for system efficiency
+
+This reduces human effort and ensures accurate access privileges.
+
+⸻
+
+🎯 Project Goals
+	•	Optimize group and role management in ServiceNow
+	•	Automate access approval processes
+	•	Minimize access-related security risks
+	•	Improve user experience and operational efficiency
