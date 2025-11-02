@@ -53,7 +53,7 @@ HR system integration for automatic onboarding/offboarding
 Email notifications for approval flows
 👩‍💻 Developer
 
-Name: Aslin Herlye
+Name:VIVEK RB
 Course: B.Tech – Artificial Intelligence & Data Science
 
 📸 Screenshots
